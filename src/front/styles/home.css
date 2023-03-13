@@ -6,6 +6,6 @@
     on that page only (the ones not reused in other pages).
 */
 .home_body{
-    height: 80vh;
+    height: 100vh;
     background-color: black;
 }
